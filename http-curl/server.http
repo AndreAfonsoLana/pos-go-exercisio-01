@@ -1,0 +1,3 @@
+# Variable for the base URL (Change the port if your NestJS is running on a different one, like 3770)
+@baseUrl = http://localhost:8080/cotacao
+GET {{baseUrl}}?
